@@ -1,8 +1,9 @@
 # FinSight
 
 A personal finance analytics web app.
-Upload your bank CSV, auto-categorise transactions, set
-budgets, and visualise your spending, all in one website.
+Upload your bank CSV, track spending by category, 
+set budgets and financial goals, manage a wishlist, 
+and even toggle between light/dark themes.
 
 ## 🔗 Live Demo
 https://finsightonline.netlify.app
